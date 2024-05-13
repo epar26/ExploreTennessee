@@ -1,0 +1,144 @@
+html{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: blanchedalmond;
+}
+
+
+
+.hero-2 {
+    width: 100vw;
+    height: 60vh;
+    opacity: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background-image: url(/main/images/cityscape-7129118_1920.jpg);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+  
+}
+
+.hero-2 {
+    width: 100vw;
+    height: 60vh;
+    opacity: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    
+}
+
+.inner > h2 {
+    position: relative;
+    font-size: 4rem;
+    font-family: 'Thirsty Rough Bol Two', sans-serif;
+    font-style: italic;
+    color:rgba(42, 70, 70, 0.998);
+    text-align: center;
+    margin-top: 0;
+    margin-bottom: 0.5em;
+    text-shadow: 2px 8px 6px rgba(11, 11, 11, 0.2), 0px -5px 35px rgba(22, 5, 5, 0.3);
+}
+
+.nav {
+    text-decoration: none;
+    font-family: 'Thirsty Rough Bol Two', sans-serif;
+    font-style: italic;
+    font-size: 3rem;
+    margin-right: 60px;
+    text-wrap: wrap;
+    margin: 10px;
+    text-align: center;
+    padding-left: 50px;
+    margin-right: 60px;
+    text-shadow: -1px -1px 0px rgba(112, 41, 41, 0.3), 1px 1px 0px rgba(0, 0, 0, 0.8);
+    
+    
+    
+    
+}
+a:link {
+    font-family: 'Thirsty Rough Bol Two', sans-serif;
+    text-decoration: none;
+    margin-right: 50px;
+    color: rgb(0, 0, 0);
+}
+.nav > span > a {
+    color: rgb(0, 0, 0);
+    opacity: 70%;
+    text-decoration: none;
+    
+}
+.nav > span > a:hover{
+        color: rgb(253, 136, 2);
+        text-decoration: none;
+    }
+
+
+    
+
+a:link {
+    text-decoration: none;
+    margin-right: 50px;
+}
+nav > span > a {
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    
+}
+    :hover > a {
+        color: rgb(228, 140, 38);
+        text-decoration: none;
+    }
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+.container {
+    display: flexbox;
+    align-items: center;
+    justify-content: center;
+    height: 600px;
+    width:950px;
+    margin-left: 90px;
+    box-shadow: 3px 3px 15px rgba(0, 0, 0, 0.7);
+    overflow: hidden;
+    
+}
+.images img {
+    height: 100%;
+    width: 100%;
+}
+
+footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    margin-left: 0px;
+    margin-right: 0px;
+    color: white;
+    background-color: rgb(76, 55, 30);
+    width: 100%;
+    opacity: 30%;
+    min-height: 3vh;
+    z-index: -3;
+}
+
+.footer-wrapper-2 {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 1rem;
+    width: 100%;
+    align-items: center;
+    
+}
+
+
